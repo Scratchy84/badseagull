@@ -22,6 +22,7 @@ font-size:95%;
 margin-top:0px;
 }
 .head{
+text-align: center;
 justify-content: center;
 /*display:  inline-flex;*/
 flex-wrap:wrap;
