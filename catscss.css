@@ -14,7 +14,6 @@ display:  inline-flex;
 align-items: center;
 justify-content: center;
 flex-wrap:wrap;
-width:160vh;
 margin-bottom:50px;
 
 }
@@ -36,13 +35,11 @@ margin:0px;
 }
 .sum{
 background-color:#668186;
-width:160vh;
 padding-left:2vh;
 }
 .sum1
 {
 background-color:#668186;
-width:163	vh;
 }
 .uptotop{
 position: sticky; top: 1px;
